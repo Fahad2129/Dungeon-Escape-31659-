@@ -3,8 +3,6 @@ An immersive C++ and SFML text-based adventure game where strategy, resource man
 
 Welcome to Dungeon Escape! This project is a complete, text-driven adventure game built with C++14 and the SFML multimedia library. It showcases a strong application of Object-Oriented Programming (OOP), custom data structures, and modern C++ features. The player awakens in a dungeon and must navigate a series of dangerous rooms, battle enemies, and make a crucial choice to find the key to their freedom.
 
-(Note: You should replace the link above with an actual GIF of your game in action!)
-
 Table of Contents
 Core Features
 Gameplay Mechanics & Flow
