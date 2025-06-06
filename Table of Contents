@@ -1,7 +1,0 @@
-Core Features ✨
-Modern SFML Interface: A graphical window powered by SFML replaces a standard console, providing a more engaging user experience.
-Animated Visuals: The game features animated menu backgrounds, screen shake effects during combat, and damage flashes to enhance player immersion.
-State-Based Game Management: A robust state machine manages the game's flow between the main menu, name input screen, core gameplay, and the final game-over screen.
-Interactive Dungeon Crawl: Navigate a linear series of interconnected rooms, each with a unique description, background, and a potential encounter—be it a valuable item, a fearsome enemy, or a difficult choice.
-Strategic Turn-Based Combat: The combat system's outcome, especially against the final boss, is directly influenced by the player's preparation and item choices.
-Critical Path Choices: The player must make a single, crucial choice between two powerful items, which directly determines whether victory is possible.
